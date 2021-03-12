@@ -8,7 +8,7 @@ jobs:
           command: |
            git config --global user.name "Khalif766"
            git config --global user.email "ekaristi699@gmail.com"
-           git clone https://github.com/JFla-Karamel JFla
+           git clone https://github.com/Khalif766/JFla-Karamel JFla
            cd JFla
            chmod a+x gettools.sh
            ./gettools.sh
